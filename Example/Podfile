@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FLCategoryKit_Example' do
+  pod 'FLCategoryKit', :path => '../'
+
+  target 'FLCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
