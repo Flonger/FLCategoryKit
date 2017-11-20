@@ -1,0 +1,22 @@
+{
+  "name": "FLCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of FLCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/flonger/FLCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "flonger": "xue@flonger.com"
+  },
+  "source": {
+    "git": "https://github.com/flonger/FLCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FLCategoryKit/Classes/**/*"
+}

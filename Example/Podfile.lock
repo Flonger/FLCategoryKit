@@ -1,0 +1,16 @@
+PODS:
+  - FLCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - FLCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  FLCategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FLCategoryKit: ff42b18f4d8593235e19c53b1a519d76b1c3be03
+
+PODFILE CHECKSUM: 5ad4d00043d681ed1c0b84a584a2c08f720b60c0
+
+COCOAPODS: 1.3.1
