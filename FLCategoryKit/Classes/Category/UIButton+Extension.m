@@ -45,7 +45,7 @@ static const char btnKey;
             class_replaceMethod(self, newSel, method_getImplementation(oldMethod), method_getTypeEncoding(oldMethod));
         }else{
             // 给两个方法互换实现
-            method_exchangeImplementations(oldMethod, newMethod);
+//            method_exchangeImplementations(oldMethod, newMethod);
         }
     });
 }
