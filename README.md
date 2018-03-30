@@ -22,7 +22,7 @@ pod 'FLCategoryKit'
 
 ## Author
 
-flonger, xue@flonger.com
+Flonger, xue@flonger.com
 
 ## License
 
